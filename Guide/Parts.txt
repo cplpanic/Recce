@@ -1,0 +1,59 @@
+This is a quick guide to explain the different files (in-case you get stuck)parts used and final thoughts for the project. 
+For advice on wiring please see thoughts and help at the bottom of here. 
+
+------------------------------------------------------------------------------------------
+
+The files
+
+FCStd
+These are raw designs for the case's and allow you to alter the placement and size to fit your needs.
+I used FreeCAD and you can download it from their site.
+
+stl
+These can be used by most 3D printer slicers and allow you to take the cases and alter how strong or quick you'd like them to be printed.
+I used Cura a free to download slicer.
+
+ino
+These are sketches or code for the Arduino and also work with the chips we used.
+You will need to download the IDE from their website and upload the code by USB.
+
+------------------------------------------------------------------------------------------
+
+Parts
+
+Everyone is going to build the Recce differently so have left out resistors & capacitors - it all depends on how you set up your power supply, switches found and motors used.
+Part prices & availability have gone weird at the moment but at the start of this project it would cost ~ £20 - £26. 
+
+Chips
+
+atmega328
+ATtiny 85 or equivalent
+Arduino Nano or any mini
+
+Power supply
+
+3.7v Lithium Polymer Battery
+TP4056 Module Battery Charger
+MT3608 2A DC-DC Voltage Step Up
+If you build your own PCB most 3.3v & 5v regulator 
+
+Sensors
+
+HCSR04 Sensor Ultrasonic
+
+Transistors
+
+PN2222A or TIP120 tho double check with the motor and PSU you're using
+
+
+------------------------------------------------------------------------------------------
+
+Thoughts and help
+
+As brought up in parts everyone is going to build this differently. I have made a rough wire guide for the ATtiny85 that should help you figure out how everything is put together
+you just need to adapt it to suit your board or chip.
+
+The code supplied will give you a starting point to test that it's working without the motors burning out or always spinning. You need to alter them as you go to suit the distance
+you want the motors to go off.
+
+If you're struggling and would like help please feel free to send a message. alternatively have a look online for your local maker space - these are groups of people who enjoy building and might be able to help you for a donation or case of beer :) 
