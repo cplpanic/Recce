@@ -16,6 +16,7 @@ I used Cura a free to download slicer.
 ino
 These are sketches or code for the Arduino and also work with the chips we used.
 You will need to download the IDE from their website and upload the code by USB.
+I used this as it's what I know but you may use anything. 
 
 ------------------------------------------------------------------------------------------
 
@@ -29,6 +30,7 @@ Chips
 atmega328
 ATtiny 85 or equivalent
 Arduino Nano or any mini
+There are other chips you may use but these are my gotofor light code. 
 
 Power supply
 
@@ -57,3 +59,5 @@ The code supplied will give you a starting point to test that it's working witho
 you want the motors to go off.
 
 If you're struggling and would like help please feel free to send a message. alternatively have a look online for your local maker space - these are groups of people who enjoy building and might be able to help you for a donation or case of beer :) 
+
+Wanted to give some freedoms to developers as hardware is a nightmare so remember to play nice. More then happy to keep my end free & open for people starting. 
