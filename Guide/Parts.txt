@@ -60,4 +60,4 @@ you want the motors to go off.
 
 If you're struggling and would like help please feel free to send a message. alternatively have a look online for your local maker space - these are groups of people who enjoy building and might be able to help you for a donation or case of beer :) 
 
-Wanted to give some freedoms to developers as hardware is a nightmare so remember to play nice. More then happy to keep my end free & open for people starting. 
+Wanted to give some freedoms to developers as hardware is a nightmare while also giving people something they could always access - so remember to play nice. 
